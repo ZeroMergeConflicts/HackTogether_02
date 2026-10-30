@@ -1,0 +1,365 @@
+[
+  {
+    "id": "py-01",
+    "title": "Python for Everybody",
+    "provider": "University of Michigan",
+    "category": "Python",
+    "level": "Beginner",
+    "format": "Course",
+    "minutes": 720,
+    "skills": [
+      "python",
+      "fundamentals"
+    ],
+    "description": "A friendly path from first variables to practical data work.",
+    "url": "#"
+  },
+  {
+    "id": "py-02",
+    "title": "Effective Python Patterns",
+    "provider": "Real Python",
+    "category": "Python",
+    "level": "Intermediate",
+    "format": "Guide",
+    "minutes": 180,
+    "skills": [
+      "python",
+      "clean code"
+    ],
+    "description": "Write clearer, more maintainable Python with proven patterns.",
+    "url": "#"
+  },
+  {
+    "id": "ml-01",
+    "title": "Hands-On Machine Learning",
+    "provider": "O'Reilly",
+    "category": "ML",
+    "level": "Intermediate",
+    "format": "Book",
+    "minutes": 900,
+    "skills": [
+      "ml",
+      "python",
+      "scikit-learn"
+    ],
+    "description": "Build end-to-end models with the intuition to debug them.",
+    "url": "#"
+  },
+  {
+    "id": "ml-02",
+    "title": "Machine Learning Crash Course",
+    "provider": "Google",
+    "category": "ML",
+    "level": "Beginner",
+    "format": "Course",
+    "minutes": 360,
+    "skills": [
+      "ml",
+      "math"
+    ],
+    "description": "Fast, visual foundations for modern machine learning.",
+    "url": "#"
+  },
+  {
+    "id": "ml-03",
+    "title": "Feature Engineering for ML",
+    "provider": "Kaggle",
+    "category": "ML",
+    "level": "Intermediate",
+    "format": "Lab",
+    "minutes": 90,
+    "skills": [
+      "ml",
+      "features"
+    ],
+    "description": "Turn raw signals into model-ready features.",
+    "url": "#"
+  },
+  {
+    "id": "ai-01",
+    "title": "The Illustrated Transformer",
+    "provider": "Jay Alammar",
+    "category": "AI",
+    "level": "Intermediate",
+    "format": "Article",
+    "minutes": 45,
+    "skills": [
+      "ai",
+      "transformers"
+    ],
+    "description": "A visual tour of attention, encoders, and decoders.",
+    "url": "#"
+  },
+  {
+    "id": "ai-02",
+    "title": "Building LLM Apps",
+    "provider": "DeepLearning.AI",
+    "category": "AI",
+    "level": "Intermediate",
+    "format": "Course",
+    "minutes": 240,
+    "skills": [
+      "ai",
+      "llm",
+      "prompting"
+    ],
+    "description": "Prototype useful language model features with guardrails.",
+    "url": "#"
+  },
+  {
+    "id": "ai-03",
+    "title": "Practical Prompt Engineering",
+    "provider": "OpenAI",
+    "category": "AI",
+    "level": "Beginner",
+    "format": "Guide",
+    "minutes": 60,
+    "skills": [
+      "ai",
+      "prompting"
+    ],
+    "description": "A compact, testable workflow for better model outputs.",
+    "url": "#"
+  },
+  {
+    "id": "ai-04",
+    "title": "RAG from First Principles",
+    "provider": "Weights & Biases",
+    "category": "AI",
+    "level": "Advanced",
+    "format": "Workshop",
+    "minutes": 150,
+    "skills": [
+      "ai",
+      "retrieval"
+    ],
+    "description": "Design retrieval systems that stay grounded in your data.",
+    "url": "#"
+  },
+  {
+    "id": "se-01",
+    "title": "The Missing Semester",
+    "provider": "MIT",
+    "category": "Software engineering",
+    "level": "Beginner",
+    "format": "Course",
+    "minutes": 300,
+    "skills": [
+      "tools",
+      "shell",
+      "git"
+    ],
+    "description": "The command line and tools that make every project smoother.",
+    "url": "#"
+  },
+  {
+    "id": "se-02",
+    "title": "Refactoring UI",
+    "provider": "Adam Wathan",
+    "category": "Software engineering",
+    "level": "Intermediate",
+    "format": "Book",
+    "minutes": 480,
+    "skills": [
+      "ui",
+      "frontend"
+    ],
+    "description": "Practical visual decisions for interfaces people enjoy using.",
+    "url": "#"
+  },
+  {
+    "id": "se-03",
+    "title": "Test-Driven Development",
+    "provider": "Kent Beck",
+    "category": "Software engineering",
+    "level": "Intermediate",
+    "format": "Book",
+    "minutes": 600,
+    "skills": [
+      "testing",
+      "design"
+    ],
+    "description": "Use small tests to shape reliable software.",
+    "url": "#"
+  },
+  {
+    "id": "se-04",
+    "title": "TypeScript Handbook",
+    "provider": "Microsoft",
+    "category": "Software engineering",
+    "level": "Beginner",
+    "format": "Docs",
+    "minutes": 240,
+    "skills": [
+      "typescript",
+      "frontend"
+    ],
+    "description": "The canonical guide to typing JavaScript with confidence.",
+    "url": "#"
+  },
+  {
+    "id": "se-05",
+    "title": "Designing Data-Intensive Applications",
+    "provider": "Martin Kleppmann",
+    "category": "Software engineering",
+    "level": "Advanced",
+    "format": "Book",
+    "minutes": 1200,
+    "skills": [
+      "systems",
+      "data"
+    ],
+    "description": "The architecture ideas behind dependable data systems.",
+    "url": "#"
+  },
+  {
+    "id": "sd-01",
+    "title": "System Design Primer",
+    "provider": "GitHub",
+    "category": "System design",
+    "level": "Intermediate",
+    "format": "Repository",
+    "minutes": 420,
+    "skills": [
+      "systems",
+      "architecture"
+    ],
+    "description": "An open, practical reference for system design interviews.",
+    "url": "#"
+  },
+  {
+    "id": "sd-02",
+    "title": "Scalable Web Architecture",
+    "provider": "ByteByteGo",
+    "category": "System design",
+    "level": "Intermediate",
+    "format": "Course",
+    "minutes": 360,
+    "skills": [
+      "systems",
+      "web"
+    ],
+    "description": "Reason about scale, tradeoffs, and production boundaries.",
+    "url": "#"
+  },
+  {
+    "id": "sd-03",
+    "title": "API Design Patterns",
+    "provider": "Stripe",
+    "category": "System design",
+    "level": "Advanced",
+    "format": "Guide",
+    "minutes": 120,
+    "skills": [
+      "api",
+      "design"
+    ],
+    "description": "Principles for APIs that feel predictable at scale.",
+    "url": "#"
+  },
+  {
+    "id": "sd-04",
+    "title": "Distributed Systems for Fun",
+    "provider": "MIT",
+    "category": "System design",
+    "level": "Advanced",
+    "format": "Lectures",
+    "minutes": 540,
+    "skills": [
+      "systems",
+      "distributed"
+    ],
+    "description": "Build the mental models behind consensus and failure.",
+    "url": "#"
+  },
+  {
+    "id": "py-03",
+    "title": "Data Analysis with Pandas",
+    "provider": "Kaggle",
+    "category": "Python",
+    "level": "Beginner",
+    "format": "Lab",
+    "minutes": 180,
+    "skills": [
+      "python",
+      "data"
+    ],
+    "description": "Explore, clean, and reshape real datasets.",
+    "url": "#"
+  },
+  {
+    "id": "py-04",
+    "title": "FastAPI in Production",
+    "provider": "Tiangolo",
+    "category": "Python",
+    "level": "Advanced",
+    "format": "Guide",
+    "minutes": 210,
+    "skills": [
+      "python",
+      "api"
+    ],
+    "description": "Ship typed, observable Python APIs.",
+    "url": "#"
+  },
+  {
+    "id": "ml-04",
+    "title": "Deep Learning Specialization",
+    "provider": "DeepLearning.AI",
+    "category": "ML",
+    "level": "Advanced",
+    "format": "Course",
+    "minutes": 1500,
+    "skills": [
+      "ml",
+      "deep learning"
+    ],
+    "description": "A rigorous sequence through neural networks and optimization.",
+    "url": "#"
+  },
+  {
+    "id": "ai-05",
+    "title": "AI Safety Fundamentals",
+    "provider": "BlueDot Impact",
+    "category": "AI",
+    "level": "Beginner",
+    "format": "Course",
+    "minutes": 300,
+    "skills": [
+      "ai",
+      "safety"
+    ],
+    "description": "Understand the core questions shaping responsible AI.",
+    "url": "#"
+  },
+  {
+    "id": "se-06",
+    "title": "Git for Teams",
+    "provider": "Atlassian",
+    "category": "Software engineering",
+    "level": "Beginner",
+    "format": "Guide",
+    "minutes": 90,
+    "skills": [
+      "git",
+      "teams"
+    ],
+    "description": "Make collaboration smoother with a shared Git workflow.",
+    "url": "#"
+  },
+  {
+    "id": "sd-05",
+    "title": "Architecture Decision Records",
+    "provider": "Thoughtworks",
+    "category": "System design",
+    "level": "Intermediate",
+    "format": "Guide",
+    "minutes": 45,
+    "skills": [
+      "architecture",
+      "teams"
+    ],
+    "description": "Capture decisions so teams can move with context.",
+    "url": "#"
+  }
+]
